@@ -1,3 +1,3 @@
-# crust-tastic-template
+Shhhhhh!
 
-A simple template for websites using the crust-tastic Jekyll theme.
+This Minecraft server is still under construction. Check back later?
